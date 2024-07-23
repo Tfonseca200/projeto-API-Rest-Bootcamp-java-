@@ -2,6 +2,8 @@
 
 Java RESTful API criado no bootcamp java Santander.
 
+A ideia é assimilar os estudo e colocar a teoria em prática, apredendo sobre controller, service, model, entre outros.  Api não está completa e nem robusta mas já tá servindo como base.
+
 ## Principais Tecnologias
  - **Java 17**
  - **Spring Boot 3**
