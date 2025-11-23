@@ -1,6 +1,6 @@
 # Projeto Api
 
-Java RESTful API criado no bootcamp java Santander.
+Java RESTful API criado pro bootcamp java Santander.
 
 A ideia é assimilar os estudo e colocar a teoria em prática, apredendo sobre controller, service, model, entre outros.
 
